@@ -28,7 +28,6 @@ ADRs are stored as markdown files in `docs/adr/` with filenames of the form `NNN
 ## Positive
 - Decisions and their reasoning are preserved for future reference
 - Onboarding new contributors becomes easier - the *why* is documented alongside the *what*
-- The owner can articulate every design choice in interviews with reference to a written record
 - Forcing the discipline of writing an ADR slows down decision making in a productive way: *if* a decision is hard to justify in writing, it probably needs more thought
 
 ## Negative
